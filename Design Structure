@@ -1,0 +1,47 @@
+# Design : For every problem, maintain one complete design document in this exact format:
+
+## 1. Problem Statement
+
+## 2. Functional Requirements
+
+## 3. Non-Functional Requirements
+
+## 4. Assumptions
+
+## 5. Use Cases
+
+## 6. Core Entities
+
+## 7. Class Responsibilities
+
+## 8. Relationships
+
+## 9. Class Diagram
+
+## 10. Interfaces
+
+## 11. Design Patterns
+
+## 12. Detailed Design
+
+## 13. Main APIs / Methods
+
+## 14. Complete Java Implementation
+
+## 15. Example Execution Flow
+
+## 16. Test Cases
+
+## 17. Edge Cases
+
+## 18. Concurrency Considerations
+
+## 19. Failure Scenarios
+
+## 20. Extensibility
+
+## 21. Trade-offs
+
+## 22. Interview Follow-up Questions
+
+## 23. What I Would Improve
