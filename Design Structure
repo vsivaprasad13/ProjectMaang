@@ -40,6 +40,14 @@
 
 ## 20. Extensibility
 
+
+5 min → clarify requirements
+10 min → identify use cases/entities
+10 min → class/relationship design
+10 min → abstractions/patterns
+20–30 min → Java implementation
+10–15 min → concurrency + edge cases + extensions
+
 ## 21. Trade-offs
 
 ## 22. Interview Follow-up Questions
